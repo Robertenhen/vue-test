@@ -1,0 +1,2 @@
+export const deleteTopicName = 'deleteTodo';
+export const editTopicName = 'editTodo';
